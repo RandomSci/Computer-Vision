@@ -1,0 +1,17 @@
+{"time":"2024-11-01T18:12:04.816407394+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-01T18:12:04.816438353+08:00","level":"INFO","msg":"created symlink","path":"/home/zkllmt/Documents/AI Section/Repositories/Computer-Vision/wandb/run-20241101_181204-w4hmhifu/logs/debug-core.log"}
+{"time":"2024-11-01T18:12:04.92029276+08:00","level":"INFO","msg":"created new stream","id":"w4hmhifu"}
+{"time":"2024-11-01T18:12:04.920326234+08:00","level":"INFO","msg":"stream: started","id":"w4hmhifu"}
+{"time":"2024-11-01T18:12:04.920348847+08:00","level":"INFO","msg":"sender: started","stream_id":"w4hmhifu"}
+{"time":"2024-11-01T18:12:04.920339079+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"w4hmhifu"}}
+{"time":"2024-11-01T18:12:04.920380808+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"w4hmhifu"}}
+{"time":"2024-11-01T18:12:05.429049648+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-01T18:12:05.791666135+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-01T18:12:05.792731875+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-01T18:12:06.752330958+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.181240047},{"desc":"uploading wandb-summary.json","runtime_seconds":0.134749193,"progress":"144B/144B"}],"total_operations":2}}
+{"time":"2024-11-01T18:12:07.408729183+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-01T18:12:08.761478144+08:00","level":"INFO","msg":"stream: closing","id":"w4hmhifu"}
+{"time":"2024-11-01T18:12:08.761505015+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"w4hmhifu"}}
+{"time":"2024-11-01T18:12:08.761532237+08:00","level":"INFO","msg":"sender: closed","stream_id":"w4hmhifu"}
+{"time":"2024-11-01T18:12:08.761529522+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"w4hmhifu"}}
+{"time":"2024-11-01T18:12:08.762633987+08:00","level":"INFO","msg":"stream: closed","id":"w4hmhifu"}

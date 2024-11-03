@@ -1,0 +1,31 @@
+{
+  "os":  "Linux-6.1.0-26-amd64-x86_64-with-glibc2.36",
+  "python":  "3.11.10",
+  "startedAt":  "2024-11-01T10:08:12.918280Z",
+  "program":  "/home/zkllmt/Documents/AI Section/Repositories/Computer-Vision/wandb_samples.ipynb",
+  "git":  {
+    "remote":  "https://github.com/RandomSci/Computer-Vision.git",
+    "commit":  "a57bb383b0b11b3d52e18b1a3e12e3f89220a198"
+  },
+  "email":  "jaymeselwyn@gmail.com",
+  "root":  "/home/zkllmt/Documents/AI Section/Repositories/Computer-Vision",
+  "host":  "debian",
+  "username":  "zkllmt",
+  "executable":  "/home/zkllmt/anaconda3/envs/ForAI_Kernel/bin/python",
+  "codePathLocal":  "wandb_samples.ipynb",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "249365385216",
+      "used":  "56838815744"
+    }
+  },
+  "memory":  {
+    "total":  "10360500224"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  4
+  }
+}
