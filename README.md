@@ -44,11 +44,11 @@ Feel free to reach out for collaboration, advice, or discussion on any of the to
 ---
 
 ## 🌟 **My Vision**  
-As a **Computer Vision Engineer Selwyn**, my goal is to build intelligent systems that can **see**, **understand**, and **interact** with the world around them.  
+As a **Computer Vision Engineer**, my goal is to build intelligent systems that can **see**, **understand**, and **interact** with the world around them.  
 Together, let’s explore the future of AI! 🌐🚀  
 
 ---
 
 ## ⚡ **Highlight of the Month**  
-### **Achieved a milestone in YOLOv1 object detection! 🎉**  
+### **Achieved a milestone in YOLOv11 object detection! 🎉**  
 After tackling several challenges with region proposals and Intersection over Union (IoU) calculations, I successfully implemented **YOLOv1** on custom datasets, achieving an **80% mAP** score in my test setup. Stay tuned for more updates on object detection experiments! 🔍👀
