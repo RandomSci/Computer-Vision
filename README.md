@@ -51,4 +51,4 @@ Together, let’s explore the future of AI! 🌐🚀
 
 ## ⚡ **Highlight of the Month**  
 ### **Achieved a milestone in YOLOv11 object detection! 🎉**  
-After tackling several challenges with region proposals and Intersection over Union (IoU) calculations, I successfully implemented **YOLOv1** on custom datasets, achieving an **80% mAP** score in my test setup. Stay tuned for more updates on object detection experiments! 🔍👀
+After tackling several challenges with region proposals and Intersection over Union (IoU) calculations, I successfully implemented **YOLOv11** on custom datasets, achieving an **80% mAP** score in my test setup. Stay tuned for more updates on object detection experiments! 🔍👀
