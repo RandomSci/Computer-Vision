@@ -18,3 +18,37 @@ This repository is like my **learning journal**. Here's what you'll find:
 - 📚 **Resources:** Links and references I’ve found helpful.  
 
 ---
+## 📈 **Current Focus**  
+I’m currently exploring:  
+✨ **Image Segmentation**  
+✨ **Object Detection**  
+✨ **Transfer Learning**  
+✨ **Advanced CNN Architectures**  
+
+---
+
+## 🧠 **Mindset & Goals**  
+I approach learning with a growth mindset:  
+🌱 **Continuously improving** my skills.  
+🎯 **Achieving expertise** in computer vision.  
+💡 **Learning from mistakes** and sharing insights.  
+
+---
+
+## 💬 **Let's Connect**  
+Feel free to reach out for collaboration, advice, or discussion on any of the topics I’m working on! You can find me on:  
+- [LinkedIn](#https://ph.linkedin.com/in/selwyn-jayme-a367102b1)  
+- [facebook](#facebook.com/zkllmt)  
+- [Email](#jaymeselwyn@gmail.com)  
+
+---
+
+## 🌟 **My Vision**  
+As a **Computer Vision Engineer Selwyn**, my goal is to build intelligent systems that can **see**, **understand**, and **interact** with the world around them.  
+Together, let’s explore the future of AI! 🌐🚀  
+
+---
+
+## ⚡ **Highlight of the Month**  
+### **Achieved a milestone in YOLOv1 object detection! 🎉**  
+After tackling several challenges with region proposals and Intersection over Union (IoU) calculations, I successfully implemented **YOLOv1** on custom datasets, achieving an **80% mAP** score in my test setup. Stay tuned for more updates on object detection experiments! 🔍👀
