@@ -37,7 +37,7 @@ I approach learning with a growth mindset:
 
 ## 💬 **Let's Connect**  
 Feel free to reach out for collaboration, advice, or discussion on any of the topics I’m working on! You can find me on:  
-- [LinkedIn](#https://ph.linkedin.com/in/selwyn-jayme-a367102b1)  
+- [LinkedIn](#ph.linkedin.com/in/selwyn-jayme-a367102b1)  
 - [facebook](#facebook.com/zkllmt)  
 - [Email](#jaymeselwyn@gmail.com)  
 
