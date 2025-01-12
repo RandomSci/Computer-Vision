@@ -10,4 +10,5 @@ scikit-learn
 scikit-image
 torch_snippets
 matplotlib
-
+selectivesearch
+qrcode
