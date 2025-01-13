@@ -12,3 +12,4 @@ torch_snippets
 matplotlib
 selectivesearch
 qrcode
+jupyterlab
