@@ -1,4 +1,4 @@
-# 🚀 **Selwyn's Computer Vision Journey**
+# 🚀 **My Computer Vision Journey**
 
 Hi there! 👋 Welcome to my **computer vision repository**, where I document everything I’m learning about this exciting field. This is where I:  
 ✔️ Track my **progress**  
